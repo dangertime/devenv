@@ -1,0 +1,1 @@
+winget import --import-file "cmd_new_pc_winget.json" 

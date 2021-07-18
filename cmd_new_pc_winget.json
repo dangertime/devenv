@@ -1,0 +1,61 @@
+{
+    "$schema": "https://aka.ms/winget-packages.schema.1.0.json",
+    "WinGetVersion": "0.3.11201",
+    "Sources": [
+        {
+            "Packages": [
+                {
+                    "Id": "Notion.Notion"
+                },
+                {
+                    "Id": "Valve.Steam"
+                },
+                {
+                    "Id": "Notepad++.Notepad++"
+                },
+                {
+                    "Id": "Microsoft.dotnet"
+                },
+                {
+                    "Id": "Microsoft.VisualStudio.2019.Community"
+                },
+                {
+                    "Id": "UnityTechnologies.UnityHub"
+                },
+                {
+                    "Id": "Microsoft.VisualStudioCode"
+                },
+                {
+                    "Id": "AgileBits.1Password"
+                },
+                {
+                    "Id": "7zip.7zip"
+                },
+                {
+                    "Id": "Git.Git"
+                },
+                {
+                    "Id": "Microsoft.PowerToys"
+                },
+                {
+                    "Id": "Microsoft.PowerShell"
+                },
+                {
+                    "Id": "JanDeDobbeleer.OhMyPosh"
+                },
+                {
+                    "Id": "Canonical.Ubuntu"
+                },
+                {
+                    "Id": "Discord.Discord"
+                }
+            ],
+            "SourceDetails": {
+                "Argument": "https://winget.azureedge.net/cache",
+                "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+                "Name": "winget",
+                "Type": "Microsoft.PreIndexed.Package"
+            }
+        }
+    ]
+}
